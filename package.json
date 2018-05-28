@@ -1,0 +1,12 @@
+{
+    "name": "eba-track",
+    "main": "app.js",
+    "description": "Tracking js library",
+    "repository": "https://github.com/EbaCorp/EBA-Track",
+    "license": "WTFPL",
+    "dependencies": {
+        "canvas": "^1.6.11",
+        "color-convert": "^1.9.1",
+        "heatmap.js": "^2.0.5"
+    }
+}
